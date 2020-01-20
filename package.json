@@ -1,0 +1,26 @@
+{
+  "name": "deep-clone-proxy",
+  "version": "1.0.0",
+  "description": "Deep cloning of Arrays and plain Objects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Opelar/deep-clone-proxy.git"
+  },
+  "keywords": [
+    "clone",
+    "proxy",
+    "deep",
+    "clone",
+    "javascript"
+  ],
+  "author": "opelar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Opelar/deep-clone-proxy/issues"
+  },
+  "homepage": "https://github.com/Opelar/deep-clone-proxy#readme"
+}
